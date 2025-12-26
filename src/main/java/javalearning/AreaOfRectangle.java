@@ -10,5 +10,6 @@ public class AreaOfRectangle {
         w = input.nextDouble();
         A = l * w;
         System.out.println("Area of Rectangle is:" + A);
+        input.close();
     }
 }
