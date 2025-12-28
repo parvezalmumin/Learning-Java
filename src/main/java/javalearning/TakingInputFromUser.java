@@ -1,5 +1,5 @@
 
-package javalearning;
+
 
 // Step 1: Import the Scanner class
 import java.util.Scanner;
